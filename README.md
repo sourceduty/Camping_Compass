@@ -7,7 +7,7 @@ The service offered by Camping Compass is particularly valuable because it provi
 #
 ### Example Usage
 
-<details><summary>Devils Tower, Wyoming</summary>
+<details><summary>Devils Tower, Wyoming, USA</summary>
 <br>
 
 Campsite Name: Devils Tower KOA
@@ -36,6 +36,48 @@ Nearby Attractions:
 - Rock climbing (with permit)
 
 This location is perfect for those looking to combine their camping trip with hiking and learning about America's natural and cultural history.
+
+<br>
+</details>
+
+<details><summary>Seelbach, Black Forest, Germany</summary>
+<br>
+
+Campingplatz Schwarzwälder Hof - Tent Camping Spot in Germany
+
+Location:
+
+- Address: Campingplatz Schwarzwälder Hof, Seelbach, Germany
+- Region: Black Forest
+- Proximity to landmarks: Close to the hiking trails and natural attractions of the Black Forest
+
+Amenities:
+
+- Sanitary facilities: Modern with showers and toilets
+- Food and Beverage: On-site restaurant and shops
+- Water activities: Swimming pool available
+- Connectivity: WiFi access at specific points
+- Pets: Pet-friendly with designated areas
+
+Accessibility:
+
+- Access by car with dedicated parking near tent sites
+- Roads well-maintained suitable for standard vehicles
+
+Activities:
+
+- Outdoor: Hiking, cycling, nature walks
+- Recreational: Organized activities for children and adults, playgrounds
+- Seasonal events: Local festivals and cultural activities
+
+Best Time to Visit:
+
+- Ideal during spring through autumn for best weather conditions
+
+Booking:
+
+- Reservations recommended especially during peak seasons
+- Offers both online and on-site booking options
 
 <br>
 </details>
