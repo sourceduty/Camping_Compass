@@ -82,5 +82,41 @@ Booking:
 <br>
 </details>
 
+<details><summary>Lake Saiko, Mount Fuji, Japan</summary>
+<br>
+
+Camping Spot Example: Lake Saiko Campground
+
+- Location: Yamanashi Prefecture, near Lake Saiko
+- Type of Camping: Tent Camping
+
+Amenities:
+
+  - Basic toilet facilities
+  - Coin-operated showers
+  - Fire pits and BBQ areas
+  - Rental options for tents and camping gear
+
+Accessibility:
+
+  - Easily accessible by car
+  - Parking available on-site
+  - Paths and areas suitable for families and less mobile campers
+
+Environment:
+  
+  - Offers stunning views of Mount Fuji
+  - Many nearby trails for hiking and exploring
+  - Opportunities for fishing and boating in Lake Saiko
+    
+Nearby Attractions:
+  
+  - Fujikawaguchiko town with cultural sites and local cuisine
+  - Proximity to other Fuji Five Lakes
+  - Access to Aokigahara Forest for more adventurous hikers
+
+<br>
+</details>
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
